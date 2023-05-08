@@ -7,7 +7,7 @@ EtchScript is a simple programming language whose syntax is based on Python, Jav
 Contributing is welcome!
 
 
-
+[Website](https://etchscript.playcode.io)
 
 
 ![Logo](https://i.postimg.cc/pdL4v5VS/Etch-Script.png)
