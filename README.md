@@ -77,7 +77,7 @@ etch z;
 
 - User input
 
-```
+```py
 etch "Enter number a:\n";
 feed a;
 etch "Enter number b:\n";
